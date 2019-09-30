@@ -1,6 +1,6 @@
-View deployed project: https://feline-factinator.netlify.com/
-LinkedIn: https://www.linkedin.com/in/benjamin-t-wilson/
-Website: https://btwicode.com
+# View deployed project: https://feline-factinator.netlify.com/
+# LinkedIn: https://www.linkedin.com/in/benjamin-t-wilson/
+# Website: https://btwicode.com
 
 # Module Project: Async Redux - React Redux App
 
